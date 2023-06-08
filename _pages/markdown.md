@@ -1,38 +1,38 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /conferences/
+title: "Attended Summer Schools, Conferences and Learning Groups"
 author_profile: true
 redirect_from: 
-  - /md/
-  - /markdown.html
+  - /conferences.html
 ---
 
-## Locations of key files/directories
+## The Langland’s Program and Related Topics
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
+* (CATS7) Categries and Stacks in Algebraic Geometry and Algebraic Topology | October 2023
+* (Learning Group) Compatification of Locally Symmetric Space (**Talk given on polyhedral reduction theory in self-adjoint cones**) | October 2022
+* (Learning Group) P-adic Langlands Program (**Talk given on Witt vector**) | November 2021
+* (CATS60) Carlos Simpson’s Birthday Conference | June 2022
+
+<!-- * Collections of pages are .md or .html files in:
   * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+  * _portfolio/ -->
 
-## Tips and hints
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
+## Motives and Homotopy Theory
 
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+* (BIMSA Summer School) Chow-Witt Rings: Computations and Applications | August 2023
+* (Conference) Motives in Moduli and Representation Theory | July 2023
+* (Conference) Motivic and Non-commutative Aspects of Enumerative Geometry | July 2023
+* (Seminar) Chromatic Homotopy Theory (**Talk given on Morava stabilizer groups and Lubin-Tate theory**) | June 2023
+* (Conference) Homotopy Theory, K-theory and Trace Methods | July 2023
+* (Conference) Motives, Quadratic Forms and Arithmetic Conference | October 2022
+* (Conference) Unifying Themes in Geometry, Higher Homotopical Structure | September 2021
+* (Seminar) Stratified Homotopy Theory | October 2020
+
+
+## Higher Category Theory/ Category Theory
+* (Seminar in Regensburg) Topics on (∞,2)−categories | May 2023
+* (Learning Group) Infinity Category (**Talk given on introduction to infinity category**) | October 2022
 
 ## Markdown guide
 
