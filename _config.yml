@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Runlei Xiao's Homepage"
 title_separator          : "-"
 name                     : &name "Runlei Xiao"
-description              : &description "Studying Langlands program and motivic theory."
+description              : &description "Studying Langlands program and motivic theory"
 url                      : https://fancy-block.github.io/XiaoCV.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Fancy-Block/XiaoCV.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Xiao Runlei"
   avatar           : "avatar-xiao.png"
-  bio              : "Studying Langlands program and motivic theory."
+  bio              : "Studying Langlands program and motivic theory"
   location         : "France"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+#   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+#   googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            : "jacobelection@gmail.com"
+#   researchgate     : example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/Fancy-Block"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+#   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+#   twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
