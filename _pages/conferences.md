@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /conferences/
 title: "Attended Summer Schools, Conferences and Learning Groups"
 author_profile: true
