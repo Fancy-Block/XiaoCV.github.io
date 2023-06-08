@@ -1,10 +1,10 @@
 ---
-layout: archive
+<!-- layout: archive -->
 title: "Thesis"
 permalink: /thesis/
 author_profile: true
 redirect_from:
-  - /thesis
+  - /thesis.html
 ---
 
 {% include base_path %}
