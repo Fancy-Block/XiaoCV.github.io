@@ -1,13 +1,22 @@
 # main links links
 main:
-# changing into: education
 
-  - title: "Publications"
+# changing into: education
+  - title: "Education"
     url: /publications/
 
 #   changing into: knowledge back and research interests
-  - title: "Talks"
+  - title: "Research"
     url: /talks/    
+
+#  changing into: research experience and thesis
+  - title: "Thesis"
+    url: /cv/
+    
+#   changing into: Conferences and Learning Groups
+  - title: "Conferences"
+    url: /conferences/
+
 
 #   - title: "Teaching"
 #     url: /teaching/    
@@ -18,10 +27,4 @@ main:
 #   - title: "Blog Posts"
 #     url: /year-archive/
     
-#  changing into: research experience and thesis
-  - title: "CV"
-    url: /cv/
-    
-#   changing into: Conferences and Learning Groups
-  - title: "Guide"
-    url: /markdown/
+
