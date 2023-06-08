@@ -8,11 +8,12 @@ redirect_from:
 
 ## The Langland’s Program and Related Topics
 
-* (CATS7) Categries and Stacks in Algebraic Geometry and Algebraic Topology | October 2023
-* (Learning Group) Compatification of Locally Symmetric Space (**Talk given on polyhedral reduction theory in self-adjoint cones**) | October 2022
-* (Learning Group) P-adic Langlands Program (**Talk given on Witt vector**) | November 2021
-* (CATS60) Carlos Simpson’s Birthday Conference | June 2022
+* (CATS7) Categries and Stacks in Algebraic Geometry and Algebraic Topology \| October 2023
+* (Learning Group) Compatification of Locally Symmetric Space (**Talk given on polyhedral reduction theory in self-adjoint cones**) \| October 2022
+* (Learning Group) P-adic Langlands Program (**Talk given on Witt vector**) \| November 2021
+* (CATS60) Carlos Simpson’s Birthday Conference \| June 2022
 
+<!-- below: if you want to use secondary items -->
 <!-- * Collections of pages are .md or .html files in:
   * _publications/
   * _portfolio/ -->
@@ -20,21 +21,27 @@ redirect_from:
 
 ## Motives and Homotopy Theory
 
-* (BIMSA Summer School) Chow-Witt Rings: Computations and Applications | August 2023
-* (Conference) Motives in Moduli and Representation Theory | July 2023
-* (Conference) Motivic and Non-commutative Aspects of Enumerative Geometry | July 2023
-* (Seminar) Chromatic Homotopy Theory (**Talk given on Morava stabilizer groups and Lubin-Tate theory**) | June 2023
-* (Conference) Homotopy Theory, K-theory and Trace Methods | July 2023
-* (Conference) Motives, Quadratic Forms and Arithmetic Conference | October 2022
-* (Conference) Unifying Themes in Geometry, Higher Homotopical Structure | September 2021
-* (Seminar) Stratified Homotopy Theory | October 2020
+* (BIMSA Summer School) Chow-Witt Rings: Computations and Applications \| August 2023
+* (Conference) Motives in Moduli and Representation Theory \| July 2023
+* (Conference) Motivic and Non-commutative Aspects of Enumerative Geometry \| July 2023
+* (Seminar) Chromatic Homotopy Theory (**Talk given on Morava stabilizer groups and Lubin-Tate theory**) \| June 2023
+* (Conference) Homotopy Theory, K-theory and Trace Methods \| July 2023
+* (Conference) Motives, Quadratic Forms and Arithmetic Conference \| October 2022
+* (Conference) Unifying Themes in Geometry, Higher Homotopical Structure \| September 2021
+* (Seminar) Stratified Homotopy Theory \| October 2020
 
 
 ## Higher Category Theory/ Category Theory
-* (Seminar in Regensburg) Topics on (∞,2)−categories | May 2023
-* (Learning Group) Infinity Category (**Talk given on introduction to infinity category**) | October 2022
+* (Seminar in Regensburg) Topics on (∞,2)−categories \| May 2023
+* (Learning Group) Infinity Category (**Talk given on introduction to infinity category**) \| October 2022
 
-## Markdown guide
+
+
+
+
+
+<!-- below: instructions for using markdown language -->
+<!-- ## Markdown guide
 
 ### Header three
 
@@ -199,4 +206,4 @@ Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should 
 
 ### Variable Tag
 
-This allows you to denote <var>variables</var>.
+This allows you to denote <var>variables</var>. -->
