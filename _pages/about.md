@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Runlei Xiao's page"
+title: "Welcome to Runlei Xiao's homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a M2 student majoring in Mathematical Physics at [Université de Bourgogne]([https://www.pku.edu.cn/](https://www.u-bourgogne.fr/)). My research interest includes Langlands program and motivic theory.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+You can find my CV here: [XiaoCV](../assets/XiaoCV-06.06.pdf).
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) 
+[Email](mailto:jacobelection@gmail.com) / [Github](https://github.com/Fancy-Block) 
 
