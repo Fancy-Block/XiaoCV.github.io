@@ -12,7 +12,7 @@ redirect_from:
 * The Langlands Program
   * Langlands functoriality \| Compactification of moduli space \| Moduli space of Higgs bunldle and local system
 * Motivic Homotopy Theory and K-theory
-  * P 1 −invertible motivic homotopy theory \| Hermitian K−theory of stable ∞−category \| Derived algebraic geometry
+  * P1 −invertible motivic homotopy theory \| Hermitian K−theory of stable ∞−category \| Derived algebraic geometry
 * Homotopy Theory
   * ∞−category theory \| Stratified homotopy theory
 
@@ -24,3 +24,4 @@ redirect_from:
   * Arithematic aspect of character variety \| Combinatorial description of moduli space of Riemann surface
 * Motive Theory
   * Motivic cohomology \| Motivic homotopy theory \| Hermitian K-theory \| Algebraic K-theory
+
