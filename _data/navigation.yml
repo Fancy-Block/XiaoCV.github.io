@@ -3,7 +3,7 @@ main:
 
 # changing into: education
   - title: "Education"
-    url: /publications/
+    url: /education/
 
 #   changing into: knowledge back and research interests
   - title: "Research"
