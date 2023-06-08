@@ -12,7 +12,7 @@ I'm a M2 student majoring in mathematical physics at [Université de Bourgogne](
 
 I am now at the visiting position at the University of Regensburg, supervising by Dr. Vova Sosnilo. We are trying to reconstruct ⊙ product in Poincare ∞−category which is constructed by Markus Land and Georg Tamme before in algebraic K−theory of E1−ring spectrum.
 
-You can find my CV here: [XiaoCV](../XiaoCV.github.io/blob/master/files/Xiao-CV-06.06.pdf).
+You can find my CV here: [XiaoCV](../blob/master/files/Xiao-CV-06.06.pdf).
 
 [Email](mailto:jacobelection@gmail.com) / [Github](https://github.com/Fancy-Block) 
 
