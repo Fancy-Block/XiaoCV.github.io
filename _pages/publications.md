@@ -1,16 +1,20 @@
 ---
-layout: archive
-title: "Publications"
-permalink: /publications/
+<!-- layout: archive -->
+title: "Education"
+permalink: /education/
+redirect_from: 
+  - /education.html
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Université de Bourgogne \| Dijon, France 2022-2023
+*  Mathematical Physics (M2), Master’s Degree Candidate (Thesis Defense Passed)
 
-{% include base_path %}
+## Sorbonne Université \| Paris, France 2021-2022
+* Fundemental Mathematics (M2), Master’s Degree Candidate
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Université de Nice \| Nice, France 2020-2021
+* Pure and Applied Mathematics, Geometry and Algebra (M2), Master’s Degree
+
+## Capital Normal University \| Beijing, China 2016-2020
+* Pure and Applied Mathematics, Bachelor’s Degree
